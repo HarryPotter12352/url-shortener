@@ -7,6 +7,6 @@ Clone the repository using `git clone https://github.com/HarryPotter12352/url-sh
 
 Now make a new file called `config.json` and in that enter content of the following format
 ```json
-{"mongo_url" : "your database's url", "port" 5500}
+{"mongo_url" : "your database's url", "port": 5500}
 ```
 Now run `node .` to start the project and enjoy!
